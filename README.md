@@ -21,4 +21,4 @@ Image Processing Toolbox
   
 
 
-  [1]: http://oevwfwaro.bkt.clouddn.com/%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B.PNG
+  [1]: https://raw.githubusercontent.com/Hareric/tuchuang/master/graph/%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B.PNG
